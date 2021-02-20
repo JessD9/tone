@@ -49,7 +49,7 @@ You might also consider using an inductive reasoning approach. Present scenarios
 
 One of the primary challenges associated with developing resources for the flipped classroom is that it requires significant preparation and can be time-consuming.
 
-Utilizing material already available on YouTube and using Open Educational Resources can mitigate prep time. Resources from the Khan Academy, TED Talks (see the "Flip this Lesson" feature from TED-Ed), and using written prompts where students can “pause” to reflect on their learning will help students grasp important material. As students will be studying this material independently, the key is finding and creating content that has a stepwise progression.
+Utilizing material already available on YouTube and using Open Educational Resources can mitigate prep time. Resources from the Khan Academy, TED Talks (see the ["Flip this Lesson"](https://blog.ted.com/flip-it-a-new-way-to-teach-with-video-from-ted-ed/) feature from TED-Ed), and using written prompts where students can “pause” to reflect on their learning will help students grasp important material. As students will be studying this material independently, the key is finding and creating content that has a stepwise progression.
 
 ![alt-text](bram-naus-n8Qb1ZAkK88-unsplash.jpg "Open laptop on a wood surface")
 
